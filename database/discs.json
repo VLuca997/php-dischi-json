@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Illmatic",
+        "Artist": "Nas",
+        "Year": 1994,
+        "Genres": "Hip-Hop, Rap",
+        "images": "./img/IllmaticNas.jpg"
+    },
+    {
+        "name": "The Marshall Mathers LP",
+        "Artist": "Eminem",
+        "Year": 2000,
+        "Genres": "Hip-Hop, Rap",
+        "images": "./img/straight-outta-compton-album-cover.jpg"
+    },
+    {
+        "name": "Straight Outta Compton",
+        "Artist": "N.W.A",
+        "Year": 1988,
+        "Genres": "Gangsta Rap, West Coast Hip-Hop",
+        "images": "./img/TheMarshalMathers-Eminem.jpg"
+    },
+    {
+        "name": "The Chronic",
+        "Artist": "Dr. Dre",
+        "Year": 1992,
+        "Genres": "Gangsta Rap, West Coast Hip-Hop",
+        "images": "./img/TheCronic.jpg"
+    },
+    {
+        "name": "Enter the Wu-Tang (36 Chambers)",
+        "Artist": "Wu-Tang Clan",
+        "Year": 1993,
+        "Genres": "Hip-Hop, East Coast Hip-Hop",
+        "images": "./img/ReadytoDie.jpg"
+    },
+    {
+        "name": "Ready to Die",
+        "Artist": "The Notorious B.I.G.",
+        "Year": 1994,
+        "Genres": "Hip-Hop, East Coast Hip-Hop",
+        "images": "./img/EntertheWu.Tang(36 Chambers).jpg"
+    }
+]
